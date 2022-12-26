@@ -1,0 +1,2 @@
+# COVID19project
+In this project, we used neural networks to train our data. We recommended that for the COVID-19 fatality rate, countries could increase the rate of testing and develop testing kits with high accuracy to prevent Type II errors (when people receive negative test results when they actually have COVID-19). For the vaccination rate, we suggested governments and organizations to provide more community support especially in war-torn regions such as Syria and South Sudan.
